@@ -22,3 +22,13 @@ git push
 2.pull request
 3.merge pull request
 4.changes are reflected to master
+
+#Clone
+1.new window with new drive location
+2.git clone "github file link"
+3.setpath to the folder
+4.make changes
+5.git add.
+6.git commit -m "changes"
+7.git push
+8.merge into master branch
